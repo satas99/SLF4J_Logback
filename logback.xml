@@ -45,7 +45,7 @@
     <root level="info">
         <appender-ref ref="FILEOUTINFO"/>
         <appender-ref ref="FILEOUTERROR"/>
-		<appender-ref ref="STDOUT"/>
+	<appender-ref ref="STDOUT"/>
     </root>
 	
 </configuration>
